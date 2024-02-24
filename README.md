@@ -9,5 +9,9 @@ You can create as many pins as you want. Click the pin to display a pop-up, in w
 Since AccuWeather free account allows max of 50 API calls a day, when the limit is reached, a popup alert window is shown to notify users and placeholder images are displayed. 
 
 
-https://github.com/TheGatesOfParadise/Unit9_Weather_Project/assets/109245867/15f2bb8f-3180-4ae2-b7f1-b66230e9f42b
+
+
+
+https://github.com/axruan/Dress-For-Weather/assets/42079946/d5f20aaf-994c-49b2-99ff-160e0b54e73d
+
 
